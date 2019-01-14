@@ -1,0 +1,19 @@
+name: Aurelien Guitton - Game Designer
+email: aurelien.guitton@hotmail.com
+description: Student in Video Games at Université du Québec à Chicoutimi. This is my portfolio, showcasing the games I designed and developed.
+url: https://aureliengttn.github.io/
+social:
+  name: Aurelien Guitton
+  links:
+    - https://twitter.com/AurelienGttn
+    - https://facebook.com/aurelien.guitton
+    - https://github.com/AurelienGttn/
+    - https://aureliengttn.itch.io
+    - https://www.linkedin.com/in/aurelien-guitton/
+
+
+plugins:
+  - jekyll-seo-tag
+
+collections:
+  portfolio:
