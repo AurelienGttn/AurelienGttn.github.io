@@ -17,3 +17,8 @@ plugins:
 
 collections:
   portfolio:
+
+analytics:
+  provider: "google-universal"
+  google:
+    tracking_id: "UA-24856910-2"

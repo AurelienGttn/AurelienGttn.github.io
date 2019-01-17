@@ -224,7 +224,6 @@
     <!-- Portfolio Modals -->
 
     {% for project in site.portfolio %}
-    <!-- Swap Racer -->
     <div class="portfolio-modal mfp-hide" id="{{ project.project_name }}">
       <div class="portfolio-modal-dialog bg-white">
         <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
@@ -233,7 +232,6 @@
         <div class="container text-center">
           <div class="row">
             <div class="col-lg-8 mx-auto">
-              <!-- <h2 class="text-secondary text-uppercase mb-0">Swap Racer</h2> -->
               <img class="img-fluid mb-5" src="{{ project.splashscreen_path }}" alt="{{ project.project_name }}">
               <hr class="star-dark mb-5">
               <p class="mb-5"><h4>{{ project.title }}</h4><br>{{ project.description }}</p>

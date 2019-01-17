@@ -1,7 +1,7 @@
 ---
 project_name: DouchebagHero
 logo_path: /img/portfolio/DouchebagHero/logo.png
-splashscreen_path: /img/portfolio/DouchebagHero/splashscreen.png
+splashscreen_path: /img/portfolio/DouchebagHero/splashscreen.PNG
 title: 1-month project in AI class
 description: <b>Constraint:</b> Implement a complex AI<br>
               <b>Style:</b> Survival, Strategy, Management<br>
