@@ -12,5 +12,5 @@ description: <b>Theme:</b> Change<br>
               	<img class="img-fluid" src="img/windows_badge.png" alt="Download on Windows">
               </a><br><br>
               <b>Concept:</b> 2-player race against each other in a 2D side-scrolling game. Of course, there are multiple obstacles on their path, and they have to choose between several paths. The trick is that every few seconds, all the traps become ineffective and the platforms that used to help you become traps.<br>
-              <b>Roles:</b> Level 2 design, interactions with objects (knockback on hit, moving platforms, falling spikes)
+              <b>Role:</b> Level 2 design, interactions with objects (knockback on hit, moving platforms, falling spikes)
 ---
